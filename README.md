@@ -1,5 +1,10 @@
-# BUISNESSONBOT-BACKEND
-case1:
-![image](https://user-images.githubusercontent.com/85669859/221858051-7918fc5a-d29a-451f-9f4f-563eebc884fb.png)
-case2:
-![image](https://user-images.githubusercontent.com/85669859/221858194-ae6e332c-7a1f-4012-84e5-ba59d5b760af.png)
+BACKEND
+Case1:
+Output
+Search API to return possible matches across all columns and all rows, ordered by IFSC code (ascending order) with limit and offset.
+![image](https://user-images.githubusercontent.com/117190128/221865456-ff6b7170-184d-4343-9269-3ac1620b7680.png)
+
+Case2:
+Branch API to return possible matches based on the branch name ordered by IFSC code (descending order) with limit and offset.
+Output
+![image](https://user-images.githubusercontent.com/117190128/221865563-c93595cd-f810-47ec-b725-1ef5608f9cff.png)
